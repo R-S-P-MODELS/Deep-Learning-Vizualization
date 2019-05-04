@@ -3,3 +3,5 @@ This App receives any keras model and respective pickle file and lets the user s
 
 
 The repository also contains some pre trained models and respective pickles for the user to test then
+
+You can clone the repository and use the docker file to build a docker image
